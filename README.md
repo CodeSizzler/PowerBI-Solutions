@@ -1,92 +1,44 @@
-# Legal Analytics Dashboard – Power BI Implementation
+# 📊 PowerBI Projects by CodeSizzler  
 
-This repository contains a scalable legal intelligence dashboard built in **Power BI**, designed to simulate and demonstrate internal analytics for a modern legal services firm.
+Welcome to the official **PowerBI Projects** repository by **CodeSizzler India & UAE**! This repository hosts a collection of **cutting-edge Business Intelligence (BI) dashboards, reports, and data visualizations** developed using **Microsoft PowerBI**.  
 
-A synthetic dataset containing **1 million+ records across 50+ fields** was generated to replicate realistic law firm operations — including departments, attorneys, clients, case metadata, outcomes, timestamps, and financial data.
+Our projects demonstrate **real-world data analytics solutions**, covering industries such as **finance, healthcare, retail, education, legal, and supply chain**. Each project is designed to showcase **best practices in data modeling, DAX, Power Query, and interactive dashboarding**.  
 
-Download files from here - [Legal Analytics Dashboard Power BI Implementation](https://codesizzlertech-my.sharepoint.com/:f:/g/personal/feroz_codesizzler_in/EvwPhKkuhyREshYWMNeS4AcBGnYkLMf97SdbkFQcoqXEXQ?e=O3ssWo)
+## 🌟 Featured Projects  
+1. **Sales Performance Analytics** – Dynamic dashboards tracking KPIs, revenue trends, and regional insights.  
+2. **Healthcare Patient Analytics** – Interactive reports for patient demographics, treatment efficiency, and hospital performance.  
+3. **Stock & Inventory Management** – Real-time tracking of stock levels, reorder alerts, and supplier performance analytics.  
+4. **Legal Case Analytics** – Litigation tracking, case duration forecasting, and legal expense optimization.  
+5. **Supply Chain Optimization** – End-to-end logistics and inventory management visualizations.  
+6. **Education & E-Learning Insights** – Student performance tracking, course engagement analytics, and institutional reporting.  
 
-# Project Contributors
+*(More projects coming soon! Stay tuned for updates.)*  
 
-| Author             | Designation                |
-|--------------------|-----------------------------|
-| **Abdul Rasheed Feroz Khan** | Founder & Director - CodeSizzler India & UAE |
-| **Arthi Arumugam**           | Business Intelligence Analyst - CodeSizzler India           |
+## 👥 Contributors  
+### Abdul Rasheed Feroz Khan  
+🎯 **Founder & Director – CodeSizzler India & UAE**  
+📌 Microsoft MVP | AI & Data Analytics Expert | Tech Speaker  
+🔗 [LinkedIn](https://linkedin.com/in/abdulrasheedferozkhan) | [GitHub](https://github.com/AbdulRasheedFerozKhan)  
 
----
+### Arthi Arumugam  
+📊 **Business Intelligence Analyst – CodeSizzler India**  
+📌 AI & Data Specialist | Data Visualization Expert | AI Agents, SQL & DAX Pro  
+🔗 [LinkedIn](https://www.linkedin.com/in/arthiarumugam99/) | [GitHub](https://github.com/arthi-arumugam99)  
 
-## Technical Overview
+## 🚀 Why Explore This Repo?  
+✅ **Industry-Ready PowerBI Solutions**  
+✅ **Step-by-Step Documentation & Best Practices**  
+✅ **Reusable Templates & DAX Formulas**  
+✅ **Interactive & User-Friendly Dashboards**  
 
-### Data Simulation
-- Generated using a custom Python script
-- Includes 1,000,000 rows and 51 structured columns
-- Simulates real legal firm activity across:
-  - Client types (e.g., High Value, Pro Bono)
-  - Legal departments and attorneys
-  - Practice areas and outcomes
-  - Case timelines and settlement amounts
-  - Derived fields like satisfaction score and complexity index
+## 🔧 Technologies Used  
+- **Microsoft PowerBI** (Desktop & Service)  
+- **Power Query (M Language)**  
+- **DAX (Data Analysis Expressions)**  
+- **SQL & Excel Integration**  
+- **Azure Data Services (where applicable)**  
 
-### Data Model & DAX
-- Star schema built in Power BI using fact and dimension tables
-- All KPIs implemented as **explicit measures** using DAX
-- Measures built and managed using **Tabular Editor**
-- Calculations include:
-  - Total Cases
-  - Win Rate
-  - Avg. Case Duration (Days)
-  - Outcome Distribution by Department
-  - Top Practice Areas by Case Volume
-  - Weighted performance scoring (based on custom logic)
-
-### Performance Optimization
-- Model optimized to handle large volumes (1M+ rows) without lag
-- No bi-directional relationships; clean one-to-many joins
-- Efficient use of `CALCULATE`, `SUMMARIZECOLUMNS`, and conditional logic
-- Responsive visuals with minimal overhead
-
-### Visual Layer (Power BI)
-- Entire dashboard built using **default visuals only** — no external dependencies
-- Structured layout with consistent formatting, spacing, and interaction
-- Measures integrated with slicers and filters for drilldown analysis
-- All visuals styled manually for clarity and consistency
-
-## Key Features
-
-- Operational KPIs with custom DAX logic
-- Client segmentation and volume tracking
-- Departmental outcome reporting
-- Trend analysis by filing date and performance
-- High-resolution visuals for reporting and presentation use
-- Ready to adapt to real production datasets
-
-## Contents
-
-| File | Description |
-|------|-------------|
-| `generate_data.py` | Python script to simulate legal firm dataset |
-| `sample_legal_firm_data_1M.csv.zip` | Generated 1M-row dataset |
-| `.pbix` | Power BI dashboard file (not included in repo by default) |
-| `README.md` | This documentation file |
-
-## Intended Use
-
-This dashboard can be adapted for:
-
-- Legal operations & compliance teams
-- Internal firm analytics
-- Executive reporting for legal services
-- Stakeholder reviews and performance tracking
-
-## Stack
-
-- Power BI Desktop
-- Python 3.x
-- DAX (Data Analysis Expressions)
-- Tabular Editor
-
-
-## Notes
-
-This project was developed as a demonstration of how large-scale legal datasets can be transformed into actionable internal analytics. The data used here is entirely synthetic and does not represent any real clients or cases.
-
+## 📥 Getting Started  
+1. **Clone the repository**  
+   ```bash  
+   git clone https://github.com/CodeSizzler/PowerBI-Solutions.git  
