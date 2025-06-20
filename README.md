@@ -4,6 +4,15 @@ This repository contains a scalable legal intelligence dashboard built in **Powe
 
 A synthetic dataset containing **1 million+ records across 50+ fields** was generated to replicate realistic law firm operations — including departments, attorneys, clients, case metadata, outcomes, timestamps, and financial data.
 
+Download files from here - [Legal Analytics Dashboard Power BI Implementation](https://codesizzlertech-my.sharepoint.com/:f:/g/personal/feroz_codesizzler_in/EvwPhKkuhyREshYWMNeS4AcBGnYkLMf97SdbkFQcoqXEXQ?e=O3ssWo)
+
+# Project Contributors
+
+| Author             | Designation                |
+|--------------------|-----------------------------|
+| **Abdul Rasheed Feroz Khan** | Founder & Director - CodeSizzler India & UAE |
+| **Arthi Arumugam**           | Business Intelligence Analyst - CodeSizzler India           |
+
 ---
 
 ## Technical Overview
