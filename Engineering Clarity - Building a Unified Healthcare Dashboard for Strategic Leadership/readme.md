@@ -90,8 +90,4 @@ We are moving from descriptive analytics to **prescriptive and autonomous action
 
 At **CodeSizzler**, we don't just build dashboards; we build intelligent decision-making ecosystems. If you're looking to transform your organization's data into a strategic asset, let's connect.
 
-**#CodeSizzler #HealthcareIT #DataAnalytics #DigitalTransformation #DashboardDesign #AI #AIAgents #AIFoundry #HealthTech #OperationalIntelligence #RevenueCycleManagement #FinTech**
-
 ---
-
-*© 2023 CodeSizzler. All rights reserved. | www.codesizzler.com*
